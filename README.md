@@ -9,5 +9,5 @@ Downloads mp3 of all the songs in provided spotify playlist. Songs will be downl
 `python download_playlist.py "https://open.spotify.com/playlist/9easFoCsL"`
 
 
-## Install dependancies
+## Install dependencies
 `pip install -r requirements.txt`
