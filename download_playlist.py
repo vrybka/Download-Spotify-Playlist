@@ -66,8 +66,8 @@ def main(argv):
             continue
             
     print("Done!")
-    print()
-    if errors:    
+    if errors:
+        print()
         print("Oops! The download gods have refused to bless the following songs.. ")
         for i in range(0,len(errors)):
             print(errors[i]) 
